@@ -1,80 +1,69 @@
-# amFOSS Praveshan 2026
+# amFOSS-Praveshan-2026
 
-Hey! I'm **Abhirup**, a B.Tech EAC student at Amrita Vishwa Vidyapeetham, Amritapuri.
+Hi! I'm Abhirup, a B.Tech EAC student at Amrita Vishwa Vidyapeetham, Amritapuri Campus.
 
-This is my repository for the **amFOSS Praveshan 2026** tasks. I'm still getting started with programming, so I'm using these tasks to learn by actually building things, breaking them, fixing them, and figuring out why they work.
+I am currently learning programming and exploring different areas of computer science & computer Hardware components I started learning Python recently, so this repository contains my progress and work from the amFOSS tasks.
 
-## A problem I'd genuinely like to solve
+---
 
-One problem I've noticed is that beginners often struggle to figure out **where to start with programming**. There are plenty of tutorials and resources online, but having too many choices can sometimes make things even more confusing.
+## A Problem I Would Like to Solve
 
-I'd like to eventually build something that gives beginners a simple, practical path to learn programming through small problems and projects. This matters to me because I'm going through that learning process myself, so I know how confusing the first few steps can feel.
+One problem I have noticed around me is how difficult it can be for students to find the right resources and guidance when they are starting to learn programming.
 
-## Something I've learned outside a classroom
+Many beginners don't know where to start, what to learn first, or how to solve problems when they get stuck.
 
-I've been learning **Linux and the command line** outside the classroom by using Ubuntu and experimenting with it myself. I've learned basic terminal commands, how to create and run Python programs, how files and directories work, and how to troubleshoot things when a command doesn't behave the way I expect.
+I would like to eventually build something that helps beginners learn programming in a more structured and practical way.
 
-A lot of it has been trial and error: try something, get an error, search for what it means, fix it, and try again. That process has made me much more comfortable with Linux than simply reading about it would have.
+This matters to me because I am also experiencing the same learning process. I started programming without much prior experience, so I understand how confusing the beginning can be students like me 
 
-## How I intend to contribute back to the club
+---
 
-I want to contribute by being active, learning from the people around me, and helping other beginners once I become more confident myself. I'd also like to contribute code and small projects to open source as I improve.
+## Something I Learned Outside a Classroom
 
-I don't expect to know everything immediately. My main goal is to keep learning and eventually become someone who can contribute meaningfully to the club rather than just participate in it.
+One thing I have been learning outside the classroom is Linux.
 
-## My fields of interest
+I started using Ubuntu and learning how to work with the terminal, create and run Python programs, use basic Linux commands, and understand how different parts of the system work.
 
-Right now I'm interested in:
+I learned mostly by trying things myself, making mistakes,rectifying it, searching for solutions, and then trying again.
 
-- **Programming fundamentals & Python** — build a strong foundation first.
-- **Problem solving & algorithms** — practise regularly through coding problems.
-- **Linux & systems** — become comfortable with the terminal and understand how systems work.
-- **Git & open source** — learn proper version control and eventually make useful contributions.
-- **Software development** — build small projects instead of only following tutorials.
-- **AI/ML** — explore this after getting stronger at programming and the fundamentals.
+This also helped me become more comfortable with the command line instead of depending completely on graphical interfaces.
 
-I'm planning to work on these mainly by building projects, solving problems, reading documentation, and learning whatever is necessary for the problem in front of me.
+---
 
-## Progress
+## How I Intend to Contribute Back to the Club
 
-| Task | Description | Status |
-|---|---|---|
-| Task-00 | Install Linux | ⏳ |
-| Task-01 | Prologue – The Logbook of the Grand Line | ⏳ |
-| Task-02 | The Grand Line Restoration Initiative | ⏳ |
-| Task-03 | Leetcode Challenge | ✅ |
-| Task-04 | The Bull & The Bear | ⏳ |
-| Task-05 | Grand Line Guardian | ⏳ |
-| Task-06 | Pirate King's Scheduler | ⏳ |
-| Task-07 | Dank Memer Discord Bot | ⏳ |
-| Task-08 | Operation Pixel Merge | ⏳ |
-| Task-09 | Matrix Multiplication Showdown | ⏳ |
-| Task-10 | Image Grid App | ⏳ |
-| Task-11 | Surprise Us | ⏳ |
-| Task-12 | TimeFlow Wallpaper Sync | ⏳ |
-| Task-13 | Custom Shell | ⏳ |
-| Task-14 | One Piece Memory Matcher | ⏳ |
+I would like to contribute by actively participating in the club and helping other beginners whenever I can.
 
-> **Note:** A task is marked ✅ only when I consider the required work and evidence ready. Work-in-progress tasks stay ⏳ until they are properly tested and documented.
+Since I am also starting from the basics, I know how difficult it can be when learning something new. As I improve, I would like to share what I learn, help others who are facing similar problems, and contribute to projects and activities whenever I get the opportunity.
 
-## Repository structure
+I also want to improve enough to eventually contribute through actual code and projects.
 
-Each task has its own directory as requested:
+---
 
-```text
-amFOSS-Praveshan-2026/
-├── Task-00/
-├── Task-01/
-├── Task-02/
-├── Task-03/
-├── ...
-└── Task-14/
-```
+## My Fields of Interest
 
-Each task README explains my approach, what I learned, and any challenges I faced. Where the task requires it, I'll also include dependencies, screenshots, demonstrations, or other evidence.
+I am still exploring different areas of computer science, but I am particularly interested in:
 
-## My approach
+- Programming
+- Terminal and Git
+- Computer hardware components
+- Linux and open-source software
+- Problem solving
+- Artificial Intelligence and Machine Learning
+- Software development
 
-I'm not trying to rush through everything just for the task count. I'd rather have a smaller set of tasks that I can actually explain, run, and learn from.
+Right now, my main focus is building a strong foundation in Python and programming.
 
-Let's see how far I can take it. 🚀
+I plan to work on these interests by practicing regularly, solving programming problems, learning Linux, working on small projects, and gradually exploring more advanced topics.
+
+I don't want to just learn the theory. I want to understand things by actually building and experimenting with them.
+
+---
+
+## My Goal
+
+My current goal is to become comfortable with programming and develop strong problem-solving skills.
+
+I know that I am still at the beginning, so I am focusing on learning consistently and improving one step at a time.
+`
+This repository represents that learning process and my progress through the amFOSS tasks.
