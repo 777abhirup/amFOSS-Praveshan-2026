@@ -1,69 +1,72 @@
-# amFOSS-Praveshan-2026
+# amFOSS Praveshan 2026
 
-Hi! I'm Abhirup, a B.Tech EAC student at Amrita Vishwa Vidyapeetham, Amritapuri Campus.
+**Abhirup — B.Tech EAC, Amrita Vishwa Vidyapeetham, Amritapuri**
 
-I am currently learning programming and exploring different areas of computer science & computer Hardware components I started learning Python recently, so this repository contains my progress and work from the amFOSS tasks.
+This repository contains my work, experiments, and learning progress for the **amFOSS Praveshan 2026** tasks.
 
----
+> My approach: understand the problem → build a solution → test it → document what I learned → improve it.
+
+## Progress
+
+| Task | Area | Status |
+|---|---|---|
+| 01 | Terminal / Linux investigation | ⏳ Pending practical investigation |
+| 02 | Rust / Git / Linux restoration | ⏳ Pending |
+| 03 | LeetCode / Problem Solving | ✅ Submitted |
+| 04 | Crypto Tracker | ⏳ Pending |
+| 05 | Linux process monitoring | ⏳ Planned |
+| 06 | CPU scheduling in Go | 🟡 Implementation added; testing pending |
+| 07 | Discord bot | ⏳ Pending |
+| 08 | Image puzzle | ⏳ Pending |
+| 09 | Matrix multiplication | 🟡 Implementation added; benchmarking pending |
+| 10 | Flutter UI | ⏳ Pending |
+| 11 | Original project | ⏳ Project selection pending |
+| 12 | TimeFlow wallpaper sync | 🟡 Implementation added; desktop testing pending |
+| 13 | Custom shell | ⏳ Linux implementation pending |
+| 14 | Flutter app | ⏳ Pending |
+
+**Current focus:** completing a smaller number of tasks properly rather than claiming unfinished work as complete.
+
+## Fields I Am Exploring
+
+- Python and programming fundamentals
+- Problem solving and algorithms
+- Linux and the command line
+- Git and GitHub
+- Computer hardware
+- Software development
+- Artificial Intelligence and Machine Learning
+- Open-source software
 
 ## A Problem I Would Like to Solve
 
-One problem I have noticed around me is how difficult it can be for students to find the right resources and guidance when they are starting to learn programming.
+A problem I have noticed around me is how difficult it can be for students to find the right resources and guidance when they are starting to learn programming. Beginners often do not know where to start, what to learn first, or how to approach problems when they get stuck.
 
-Many beginners don't know where to start, what to learn first, or how to solve problems when they get stuck.
+I would like to eventually build something that helps beginners learn programming in a structured and practical way. This is meaningful to me because I am also going through that learning process.
 
-I would like to eventually build something that helps beginners learn programming in a more structured and practical way.
+## Learning Outside the Classroom
 
-This matters to me because I am also experiencing the same learning process. I started programming without much prior experience, so I understand how confusing the beginning can be students like me 
+I have been learning Linux outside the classroom by using Ubuntu, working with the terminal, creating and running Python programs, and troubleshooting problems myself. Making mistakes, investigating them, and trying again has made me more comfortable with the command line and debugging.
 
----
+## How I Want to Contribute
 
-## Something I Learned Outside a Classroom
+I want to contribute by participating actively, helping other beginners as I improve, sharing what I learn, and eventually contributing through useful code and projects.
 
-One thing I have been learning outside the classroom is Linux.
+## Repository Structure
 
-I started using Ubuntu and learning how to work with the terminal, create and run Python programs, use basic Linux commands, and understand how different parts of the system work.
+Each task is kept in its own directory:
 
-I learned mostly by trying things myself, making mistakes,rectifying it, searching for solutions, and then trying again.
+```text
+amFOSS-Praveshan-2026/
+├── Task-01/
+├── Task-02/
+├── Task-03/
+├── ...
+└── Task-14/
+```
 
-This also helped me become more comfortable with the command line instead of depending completely on graphical interfaces.
+Each completed task should contain its source code, a concise README, required dependencies, and genuine test/evidence material where the task asks for it.
 
----
+## Current Goal
 
-## How I Intend to Contribute Back to the Club
-
-I would like to contribute by actively participating in the club and helping other beginners whenever I can.
-
-Since I am also starting from the basics, I know how difficult it can be when learning something new. As I improve, I would like to share what I learn, help others who are facing similar problems, and contribute to projects and activities whenever I get the opportunity.
-
-I also want to improve enough to eventually contribute through actual code and projects.
-
----
-
-## My Fields of Interest
-
-I am still exploring different areas of computer science, but I am particularly interested in:
-
-- Programming
-- Terminal and Git
-- Computer hardware components
-- Linux and open-source software
-- Problem solving
-- Artificial Intelligence and Machine Learning
-- Software development
-
-Right now, my main focus is building a strong foundation in Python and programming.
-
-I plan to work on these interests by practicing regularly, solving programming problems, learning Linux, working on small projects, and gradually exploring more advanced topics.
-
-I don't want to just learn the theory. I want to understand things by actually building and experimenting with them.
-
----
-
-## My Goal
-
-My current goal is to become comfortable with programming and develop strong problem-solving skills.
-
-I know that I am still at the beginning, so I am focusing on learning consistently and improving one step at a time.
-
-This repository represents that learning process and my progress through the amFOSS tasks.
+Build a strong programming foundation, improve problem-solving skills, become comfortable with Linux and Git, and learn by actually building and experimenting.
