@@ -59,7 +59,6 @@ def generate_wallpaper(text, output=OUTPUT):
 def set_wallpaper(path):
     path = str(Path(path).resolve())
     if sys.platform.startswith("linux"):
-        # GNOME is the primary target. Other desktop environments can use the generated PNG manually.
         os.system(f"gsettings set org.gnome.desktop.background picture-uri 'file://{path}' >/dev/null 2>&1")
         os.system(f"gsettings set org.gnome.desktop.background picture-uri-dark 'file://{path}' >/dev/null 2>&1")
     elif sys.platform.startswith("win") and ctypes:
@@ -73,7 +72,6 @@ def main():
     last_content = None
     while True:
         content = read_notes(notes)
-        # Regenerate every second so the displayed clock includes seconds.
         if content != last_content:
             last_content = content
         generate_wallpaper(content)
