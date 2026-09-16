@@ -1,43 +1,31 @@
-# Flutter / Dart
 .dart_tool/
 .packages
 .pub/
 build/
 
-# Android
-android/.gradle/
-android/local.properties
-android/**/build/
-android/captures/
-android/gradle.properties.local
+**/android/.gradle/
+**/android/local.properties
+**/android/**/build/
 
-# iOS
-ios/Pods/
-ios/.symlinks/
-ios/Flutter/ephemeral/
-ios/Flutter/Generated.xcconfig
-ios/Flutter/flutter_export_environment.sh
-ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
 
-# macOS
-macos/Pods/
-macos/Flutter/ephemeral/
-macos/Flutter/GeneratedPluginRegistrant.swift
+**/macos/Pods/
+**/macos/Flutter/ephemeral/
 
-# Linux
-linux/flutter/ephemeral/
+**/linux/flutter/ephemeral/
 
-# Windows
-windows/flutter/ephemeral/
+**/windows/flutter/ephemeral/
 
-# IDE
 .idea/
-*.iml
 .vscode/
+*.iml
 
-# OS files
 .DS_Store
 Thumbs.db
 
-# Flutter launcher icon generated files
-# Keep the source icon in assets/
+**/flutter/ephemeral/
+**/Flutter/ephemeral/

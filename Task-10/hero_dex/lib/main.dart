@@ -58,7 +58,7 @@ class _HeroListPageState extends State<HeroListPage> {
     setState(() {
       filteredHeroes = heroes.where((hero) {
         final name =
-            (hero['name'] ?? hero['Name'] ?? '').toString().toLowerCase();
+            (hero['name'] ?? '').toString().toLowerCase();
 
         return name.contains(query.toLowerCase());
       }).toList();
@@ -97,8 +97,7 @@ class _HeroListPageState extends State<HeroListPage> {
                     itemBuilder: (context, index) {
                       final hero = filteredHeroes[index];
 
-                      final name =
-                          hero['name'] ?? hero['Name'] ?? 'Unknown Hero';
+                      final name = hero['name'] ?? 'Unknown Hero';
 
                       return Card(
                         margin: const EdgeInsets.symmetric(
@@ -147,7 +146,7 @@ class HeroDetailsPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final name = hero['name'] ?? hero['Name'] ?? 'Unknown Hero';
+    final name = hero['name'] ?? 'Unknown Hero';
 
     return Scaffold(
       appBar: AppBar(
